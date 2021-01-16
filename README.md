@@ -31,14 +31,14 @@ This is the basic architecture of Generator used  in this demo.
 
 ### Loss and F1 merics 
 
-<p float="left">
-  <img src="/image/DC_32/GAN_loss.png" width="40%" />
-  <img src="/image/DC_32/F1_metrics_norm.png" width="40%" /> 
+<p float="center">
+  <img src="/image/DC_32/GAN_loss.png" width="50%" />
+  <img src="/image/DC_32/F1_metrics_norm.png" width="50%" /> 
 </p>
 
 ### Fake Reconstructions
 
-<p float="left">
+<p float="center">
   <img src="/image/DC_32/train_epoch_99.png" align="middle" width="50%" alt= "Generator"/>
 </p>
 
@@ -47,14 +47,14 @@ This is the basic architecture of Generator used  in this demo.
 ### Loss and F1 merics 
 
 <p float="left">
-  <img src="/image/STL10_64/svg/GAN_loss.svg" width="40%" />
-  <img src="/image/STL10_64/svg/F1_metrics_norm.svg" width="40%" /> 
+  <img src="/image/STL10_64/svg/GAN_loss.svg" width="50%" />
+  <img src="/image/STL10_64/svg/F1_metrics_norm.svg" width="50%" /> 
 </p>
 
 ### Fake Reconstructions
 
 <p float="left">
-  <img src="/image/STL10_64/svg/train_epoch_199.svg" align="middle" width="50%" alt= "Generator"/>
+  <img src="/image/STL10_64/svg/train_epoch_199.png" align="middle" width="50%" alt= "Generator"/>
 </p>
 
 ## CELEBA
@@ -62,8 +62,8 @@ This is the basic architecture of Generator used  in this demo.
 ### Loss and F1 merics 
 
 <p float="left">
-  <img src="/image/Celeba_64/svg/GAN_loss.svg" width="40%" />
-  <img src="/image/Celeba_64/svg/F1_metrics_norm.svg" width="40%" /> 
+  <img src="/image/Celeba_64/svg/GAN_loss.svg" width="50%" />
+  <img src="/image/Celeba_64/svg/F1_metrics_norm.svg" width="50%" /> 
 </p>
 
 ### Fake Reconstructions
