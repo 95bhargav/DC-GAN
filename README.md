@@ -9,14 +9,14 @@ networks find a optimal solution to the optimization problem.
 
 This is the basic architecture of Discriminator used  in this demo.
 <center>
-  <img src="/image/Disc.png" align="middle" width="60%" alt= "Discriminator"/>
+  <img src="/image/Disc.png" align="middle" width="90%" alt= "Discriminator"/>
 </center>
 
 ## Generator
 
 This is the basic architecture of Generator used  in this demo.
 <p>
-  <img src="/image/Gen.png" align="middle" width="60%" alt= "Generator"/>
+  <img src="/image/Gen.png" align="middle" width="90%" alt= "Generator"/>
 </p>
 
 ## Gan Hacks Used.
@@ -32,14 +32,14 @@ This is the basic architecture of Generator used  in this demo.
 ### Loss and F1 merics 
 
 <p float="center">
-  <img src="/image/DC_32/GAN_loss.png" width="50%" />
-  <img src="/image/DC_32/F1_metrics_norm.png" width="50%" /> 
+  <img src="/image/DC_32/GAN_loss.png" width="45%" />
+  <img src="/image/DC_32/F1_metrics_norm.png" width="45%" /> 
 </p>
 
 ### Fake Reconstructions
 
 <p float="center">
-  <img src="/image/DC_32/train_epoch_99.png" align="middle" width="50%" alt= "Generator"/>
+  <img src="/image/DC_32/train_epoch_99.png" align="middle" width="80%" alt= "Fake Samples"/>
 </p>
 
 ## STL-10
@@ -47,14 +47,14 @@ This is the basic architecture of Generator used  in this demo.
 ### Loss and F1 merics 
 
 <p float="left">
-  <img src="/image/STL10_64/svg/GAN_loss.svg" width="50%" />
-  <img src="/image/STL10_64/svg/F1_metrics_norm.svg" width="50%" /> 
+  <img src="/image/STL10_64/svg/GAN_loss.svg" width="45%" />
+  <img src="/image/STL10_64/svg/F1_metrics_norm.svg" width="45%" /> 
 </p>
 
 ### Fake Reconstructions
 
 <p float="left">
-  <img src="/image/STL10_64/svg/train_epoch_199.png" align="middle" width="50%" alt= "Generator"/>
+  <img src="/image/STL10_64/svg/train_epoch_199.png" align="middle" width="80%" alt= "Fake Samples"/>
 </p>
 
 ## CELEBA
@@ -62,12 +62,12 @@ This is the basic architecture of Generator used  in this demo.
 ### Loss and F1 merics 
 
 <p float="left">
-  <img src="/image/Celeba_64/svg/GAN_loss.svg" width="50%" />
-  <img src="/image/Celeba_64/svg/F1_metrics_norm.svg" width="50%" /> 
+  <img src="/image/Celeba_64/svg/GAN_loss.svg" width="45%" />
+  <img src="/image/Celeba_64/svg/F1_metrics_norm.svg" width="45%" /> 
 </p>
 
 ### Fake Reconstructions
 
 <p float="left">
-  <img src="/image/Celeba_64/svg/train_epoch_115.svg" align="middle" width="50%" alt= "Generator"/>
+  <img src="/image/Celeba_64/svg/train_epoch_115.svg" align="middle" width="80%" alt= "Fake Samples"/>
 </p>
