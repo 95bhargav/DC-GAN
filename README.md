@@ -8,9 +8,9 @@ networks find a optimal solution to the optimization problem.
 ## Discriminator
 
 This is the basic architecture of Discriminator used  in this demo.
-<p>
+<center>
   <img src="/image/Disc.png" align="middle" width="60%" alt= "Discriminator"/>
-</p>
+</center>
 
 ## Generator
 
