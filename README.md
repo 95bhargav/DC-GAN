@@ -1,22 +1,22 @@
 # DC-GAN
 A Simple implementation of DC-GANs using PyTorch.
 
-    A DC-GAN consists of two neural networks working opposite to each other. \n
-As in the case of Game Theory aim is to find a Nash equilbrium where both the \n
+A DC-GAN consists of two neural networks working opposite to each other.
+As in the case of Game Theory aim is to find a Nash equilbrium where both the
 networks find a optimal solution to the optimization problem.
 
 ## Discriminator
 
 This is the basic architecture of Discriminator used  in this demo.
-<p float="left">
-  <img src="/image/Disc.png" align="middle" width="50%" alt= "Discriminator"/>
+<p>
+  <img src="/image/Disc.png" align="middle" width="60%" alt= "Discriminator"/>
 </p>
 
 ## Generator
 
 This is the basic architecture of Generator used  in this demo.
-<p float="left">
-  <img src="/image/Gen.png" align="middle" width="50%" alt= "Generator"/>
+<p>
+  <img src="/image/Gen.png" align="middle" width="60%" alt= "Generator"/>
 </p>
 
 ## Gan Hacks Used.
