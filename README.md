@@ -71,3 +71,9 @@ This is the basic architecture of Generator used  in this demo.
 <p float="left">
   <img src="/image/Celeba_64/svg/train_epoch_115.svg" align="middle" width="80%" alt= "Fake Samples"/>
 </p>
+
+# Observations
++ It is clearly visible that in generation of fake images that the generator is able to generate few features very accurately but fails for a class with multiple orientations as in cifar10 and stl10 cases. Class conditional images can be reproduced using C-GAN (will try out later).
++ Also Dropout Layers could be added in the generator and discriminator and also using InstanceNorm instead of BatchNorm as it is found to make average image of all classes with BatchNorm.
++ As per my Observation it is found that the official pytorch DC-GAN implementation does not work that well for Cifar10 and Stl10 datasets.
+
